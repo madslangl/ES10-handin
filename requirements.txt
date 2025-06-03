@@ -1,0 +1,12 @@
+torch
+torchaudio
+numpy
+matplotlib
+scipy
+h5py
+tqdm
+wandb
+pyroomacoustics
+xarray
+netCDF4
+scienceplots
